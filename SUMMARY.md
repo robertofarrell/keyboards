@@ -1,9 +1,10 @@
 # Table of contents
 
-* [EM7 Clones](README.md)
+* [README.md](README.md)
 
 ## Alice Clones
 
+* [Index](alice-clones/index.md)
 * [Lubrigante](alice-clones/lubrigante.md)
 
 ## Learning
