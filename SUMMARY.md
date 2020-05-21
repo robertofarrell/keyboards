@@ -10,4 +10,5 @@
 
 * [PCB Design](learning/pcb-design.md)
 * [Test Page](test-page.md)
+* [Another test page](another-test-page.md)
 
