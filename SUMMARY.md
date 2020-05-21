@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [EM7 Clones](README.md)
 
